@@ -12,8 +12,8 @@ Nothing wothwhile *quite yet*...
 
 Below are my current project plans...
 
-1. A version control numbering system
-    -  This would allow a user to smartly number and track across a variety of project types
+1. A smart product numbering system
+    - This would allow a user to smartly number and track across a variety of project and product types
     - The idea is meant for more physical projects but can be adapted to be used with anything requiring version control systems
     - The intent is to write this mostly in C# and WPF
 2. A Pathifinding algorithim visualizer
