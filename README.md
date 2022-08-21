@@ -1,5 +1,5 @@
 # About **Me**
-My Name is Tim.  I am currently a Project Engineer in the transportation industry.  I have a BS in Mechanical Engineering and am currently pursuing a masters in Coomputer Science.  I also like to mess with the idea of game programming, but really havent been able to branch into anything fun quite yet.
+My Name is Tim.  I am currently a Project Engineer in the transportation industry.  I have a BS in Mechanical Engineering and am currently pursuing a masters in Computer Science.  I also like to mess with the idea of game programming, but really havent been able to branch into anything fun quite yet.
 
 
 # Project showcase 🏆
