@@ -31,3 +31,7 @@ Below are my current project plans...
       - Dad Joke API calls
       - About funciton
       - Help function
+
+---
+
+[![tkm3d1a's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkm3d1a&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
