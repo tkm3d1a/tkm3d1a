@@ -35,3 +35,4 @@ Below are my current project plans...
 ---
 
 [![tkm3d1a's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkm3d1a&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkm3d1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
