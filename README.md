@@ -1,8 +1,22 @@
 # About **Me**
 My Name is Tim.  I am currently a Project Engineer in the transportation industry.  I have a BS in Mechanical Engineering and am currently pursuing a masters in Computer Science.  I also like to mess with the idea of game programming, but really havent been able to branch into anything fun quite yet.
 
+# What I'm learning 🏫
 
-# ~~Project~~ Repo showcase 🏆
+Here is a list of the things I am currently learning/working on
+- Udemey courses
+  - Fullstack Web dev
+    - React, Flask, MongoDB, Docker
+    - Progress: 95% complete
+    - Repo: [Image Gallery](https://github.com/tkm3d1a/image-gallery-udemy)
+    - Course: [FullStack Web Dev](https://www.udemy.com/course/full-stack-web-development-bootcamp/)
+  - Java/Spring Boot
+    - MVC, REST API, OpenAPI Documentation, Testing, Spring Data JPA (SQL), Spring Security (JWT)
+    - Progress: Just starting
+    - Repo: [none yet](#)
+    - Course: [Spring boot dev](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/)
+    
+# My Favorite Repos 🏆
 
 ### Baseball Reference Web application
 Link: [DB-found-webApp](https://github.com/tkm3d1a/DB-found-webApp)
@@ -38,7 +52,7 @@ Link: [none](#about-me)
 
 # Project Pipeline 🔭
 
-I unfortunatley don't have anything really planned right now.  Between grad school and work I just don't have the time I wish I did for projects.  I am continually working to learn and improve more though, and will update here as I complete either interesting course work, tutorial/projects, or if I get some time to knock out anything else!
+Outside of learning with some Udemy courses, I am currently working on improving the Baseball Reference application.  I plan on converting it to a react based application, keeping the MaraiDB backend, and utilizing python and flask for the api service.  This will be my "side" project so may not get as many updates, but it will be more detailed and have more involved planing using tools like Figma and Trello.
 
 ---
 
