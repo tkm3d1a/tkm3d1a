@@ -4,10 +4,21 @@ My Name is Tim.  I am currently a Project Engineer in the transportation industr
 # What I'm learning 🏫
 
 Here is a list of the things I am currently learning/working on
-- Udemey courses
+- Languages
+  - Python
+  - C++
+  - C
+  - Java
+  - SQL
+
+- Frameworks
+  - React
+  - Spring
+
+- Courses
   - Fullstack Web dev
     - React, Flask, MongoDB, Docker
-    - Progress: 95% complete
+    - Progress: 100% complete
     - Repo: [Image Gallery](https://github.com/tkm3d1a/image-gallery-udemy)
     - Course: [FullStack Web Dev](https://www.udemy.com/course/full-stack-web-development-bootcamp/)
   - Java/Spring Boot
@@ -39,14 +50,23 @@ This was a final group project based around replicating the [baseball-reference]
 
 ---
 
-### Placeholder repo highlight
-Link: [none](#about-me)
+### Image Gallery (Udemy Coursework)
+Link: [Image Gallery](https://github.com/tkm3d1a/image-gallery-udemy)
 
-*Descript*
+this is a single page web application where the user can search for images (pulled from the Unsplash image website) via keyword entry.  They can then save images to a database that persists over page refreshes.  They can also delete images.  All actions taken by the user also result in a quick notification so the user can get feedback on button clicks and actions they take.
 
-*fav* *feature*
+This is the result of the coursework for [this Udemy course](https://www.udemy.com/course/full-stack-web-development-bootcamp/). I learned a lot in completing this course over about a 3 month timeperiod.  The front end was created using React.  The api service is built using Python and Flask.  The Database used was MongoDB.  All services were dockerized and ran locally throughout the devolpment, there are no current plans to fully deploy this yet, but I am looking into that as a good next step for this project.
+
+*My favorite features*
+- Using toast to generate notifications
+  - The tool has a lot of flexibility and can make some neat notifications to display to the user
+- Persistant DB backend
+  - This is the first time I am storing user generated data this way and it was different than my previous SQL experience
 
 *screenshots*
+| row 1 | row 2 | row 3 |
+| ----- | ----- | ----- |
+| shot 1| shot 2 | shot 3 |
 
 ---
 
