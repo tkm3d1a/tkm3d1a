@@ -23,9 +23,9 @@ Here is a list of the things I am currently learning/working on
     - Course: [FullStack Web Dev](https://www.udemy.com/course/full-stack-web-development-bootcamp/)
   - Java/Spring Boot
     - MVC, REST API, OpenAPI Documentation, Testing, Spring Data JPA (SQL), Spring Security (JWT)
-    - Progress: Just starting
-    - Repo: [none yet](#)
-    - Course: [Spring boot dev](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/)
+    - Progress: 10% complete
+    - Repo: [Spring Boot Bootcamp](https://github.com/tkm3d1a/spring-boot-bootcamp)
+    - Course: [Spring Boot bootcamp](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/)
     
 # My Favorite Repos 🏆
 
