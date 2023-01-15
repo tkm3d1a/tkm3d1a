@@ -73,14 +73,3 @@ This is the result of the coursework for [this Udemy course](https://www.udemy.c
 # Project Pipeline 🔭
 
 Outside of learning with some Udemy courses, I am currently working on improving the Baseball Reference application.  I plan on converting it to a react based application, keeping the MaraiDB backend, and utilizing python and flask for the api service.  This will be my "side" project so may not get as many updates, but it will be more detailed and have more involved planing using tools like Figma and Trello.
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=400px src="https://github-readme-stats.vercel.app/api?username=tkm3d1a&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=260px src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkm3d1a&layout=compact" />
-</a>
-
----
